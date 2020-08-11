@@ -30,7 +30,7 @@
         or
      npm start
  ---
- ## Technologies :space_invader:
+ ## :robot: Technologies 
  
  - [TypeScript](https://www.typescriptlang.org/)
  - [ReactJS](https://pt-br.reactjs.org/)
@@ -38,4 +38,4 @@
  - [sqlite](https://www.sqlite.org/index.html)
  ---
  
- Made by the batmember [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :bat:
+ Made by the BatMember [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :bat:
