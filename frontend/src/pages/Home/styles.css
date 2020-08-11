@@ -27,7 +27,7 @@ form{
     padding-top: 7vh;
 }
 form input{
-    margin: 5vh 0 0 6.5vw;
+    margin: 5vh 0 0 7.5vw;
     width: 195px;
     padding: 10px;
     font-size: 14px;
@@ -37,7 +37,7 @@ form input{
     background-color: rgba(0, 0, 0, 0.041);
 }
 form button{
-    margin: 8vh 0 0 7.5vw;
+    margin: 8vh 0 0 8vw;
     width: 195px;
     padding: 10px;
     border: none;
